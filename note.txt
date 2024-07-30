@@ -1,0 +1,15 @@
+						ANNOTATION
+						----------
+OBJECTIF : 
+->afficher l'annotation de chaque classe
+->Afficher l'annotation de chque attribut
+->Afficher la valeur de chaque annotation
+
+Quoi?
+->Annotation est un programme executer au moment de l'execution
+
+POURQUOI?
+->Pour accelerer le travail des developpeurs et plus efficacement
+
+COMMENT?
+->Grace a @ on definit une annotation
